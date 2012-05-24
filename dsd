@@ -1,0 +1,568 @@
+[33mcommit 52d902101db31aa5149fec8271fc0de3c53cd228[m
+Merge: a55bdeb 594cde3
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Mon May 21 06:54:49 2012 -0700
+
+    Merge pull request #72 from bradly/master
+    
+    Fixing link in Readme
+
+[33mcommit 594cde3bb7cf6eba906609b14d781d5b20b944a7[m
+Author: Bradly Feeley <bradlyf@gmail.com>
+Date:   Mon May 21 06:51:24 2012 -0700
+
+    Fixing link in README
+
+[33mcommit a55bdebaf4427674e34d26a47b0c1c3ee619a695[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Mon May 21 11:13:30 2012 +0200
+
+    Adjust links to demos
+
+[33mcommit f8a7e30e65e75e0796b41c1e899b7344a38d1f96[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Fri May 18 16:41:50 2012 +0200
+
+    0.3.0 stable
+
+[33mcommit 94ea92110711399171845f46eab07e9de1b8d1d3[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Fri May 18 16:28:38 2012 +0200
+
+    Command link groups
+
+[33mcommit 253967bc7d682fe97cfbd23b120f13ca8338a110[m
+Merge: 0eaa3f6 be18b48
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Fri May 18 03:54:57 2012 -0700
+
+    Merge pull request #64 from mixonic/fix_html_view
+    
+    Fix html view swap
+
+[33mcommit 0eaa3f6ccbc77bd7727850e30c3d740bbaa8e71f[m
+Merge: d054a2d 08f3b99
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Fri May 18 03:54:10 2012 -0700
+
+    Merge pull request #65 from bobanj/master
+    
+    Set title for img and a tags only if there isn't one
+
+[33mcommit 08f3b99b831b1964cfdf2b69764cf4adfa0dcf36[m
+Author: Boban Jovanoski <bobanj@gmail.com>
+Date:   Wed May 16 11:24:41 2012 +0200
+
+    Set title for img,a only if there isn't one
+
+[33mcommit 1fb1f951c109d8115402d904caa1fd8b33cec5d3[m
+Author: Boban Jovanoski <bobanj@gmail.com>
+Date:   Wed May 16 11:23:44 2012 +0200
+
+    Add ignore for rubymine .idea
+
+[33mcommit d054a2dbbba89f58f72b03f0e87ed4c5100b06e0[m
+Merge: 239b508 6504d2f
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Tue May 15 05:32:45 2012 -0700
+
+    Merge pull request #63 from mixonic/fix_callbacks
+    
+    Fix aftercommand:composer callback
+
+[33mcommit be18b48f274b80fdab92301d658c5f5085f72852[m
+Author: Matthew Beale <matt.beale@madhatted.com>
+Date:   Mon May 14 17:35:15 2012 -0400
+
+    Fix html view swap
+
+[33mcommit 6504d2f7e2676dd3356cfcb721ab2655026c2c75[m
+Author: Matthew Beale <matt.beale@madhatted.com>
+Date:   Mon May 14 17:18:51 2012 -0400
+
+    Fix aftercommand callback
+
+[33mcommit 239b508bfd64178402b66d5cd59a8b2c31a0b552[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed May 9 22:13:43 2012 +0200
+
+    Improve wysihtml5.dom.resolveList
+
+[33mcommit bcfc23ac7b25111e37c579e3f351f768ed295249[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue May 1 17:58:09 2012 +0200
+
+    Add class to active toolbar action link
+
+[33mcommit 0fe58a775166eb29ebb171e3c5fe5e8b5abe5234[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue May 1 17:57:37 2012 +0200
+
+    Fix wysihtml5.dom.copyAttributes
+
+[33mcommit c87d4f08ec0ebe831a578c0b7ca6617c7fb62f69[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue May 1 17:56:53 2012 +0200
+
+    Remove obsolete browser version number in README
+
+[33mcommit 0d940b1043d5c95ab25652c63dcb9a957157fe1c[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Fri Apr 27 00:30:08 2012 +0200
+
+    Allow toolbar buttons other than <a>
+
+[33mcommit 4c718125e125e6f99704562e1ef114efa9030c3b[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Mon Apr 23 11:14:47 2012 +0300
+
+    Update README.textile
+
+[33mcommit b7d25e3210bb13c78131b843b339d500be212f30[m
+Merge: 820492c b9d1276
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Mon Apr 23 01:14:17 2012 -0700
+
+    Merge pull request #49 from Ruxton/patch-1
+    
+    Updated README.textile
+
+[33mcommit b9d1276b60ffccbd25de4979a0d15fd27849003f[m
+Author: Greg Tangey (Ruxton) <ruxton@thefrontiergroup.com.au>
+Date:   Mon Apr 23 15:15:21 2012 +0800
+
+    Updated README.textile to contain correct links to wiki & Getting Started tutorial
+
+[33mcommit 820492c3e117d79615ea0b776d6061a4447b952f[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Apr 19 22:56:35 2012 +0200
+
+    Fix #46 where ALT+I causes problems on windows
+
+[33mcommit 33f2eaa7f9c72d920bf323ee0adc28c739b1c6bf[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Apr 19 22:48:05 2012 +0200
+
+    Fix issues happening with insertOrderedList and insertUnorderedList (fixes #41)
+
+[33mcommit 800f28b07e7ed5772f3f03e27f0179096d25861a[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Mon Apr 16 23:22:47 2012 +0200
+
+    Allow passing command parameters to wysihtml5.Commands.prototype.exec
+
+[33mcommit e5e5af3c4436b58b91240a37d64fb0cf6770e80e[m
+Merge: 2d823a8 9fe6182
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Sun Apr 15 16:23:46 2012 -0700
+
+    Merge pull request #45 from jhollingworth/master
+    
+    Specify text of a hyper link when using the createLink command
+
+[33mcommit 9fe6182de9021a5179fcb4d49dcfd21a6dd30766[m
+Author: James Hollingworth <jamiehollingworth@gmail.com>
+Date:   Sun Apr 15 12:46:47 2012 +0100
+
+    #42 Specify text of a hyper link when using the createLink command
+
+[33mcommit 2d823a87044d3476549170835a03f5e73a04dec8[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Apr 11 23:22:31 2012 +0200
+
+    Unbind resize handler if composer doesn't exist anymore. Fixed resizing if textarea uses percent units for width (fixes #39, props to @pstadler)
+
+[33mcommit 032d87456a1962df922096625a8631ef3225c6cc[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Tue Apr 10 23:23:05 2012 +0300
+
+    README: Add credits to thank the initiator of this project
+
+[33mcommit 1df3f90fd6a508a84952ffd699bd9c664cf4d8ea[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Mon Apr 2 17:19:24 2012 +0300
+
+    Fix typo in comment
+
+[33mcommit 9751bbd34d3c0d7e93a5873dd33ca336d61c8542[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Apr 1 22:07:02 2012 +0200
+
+    Adjust comments in advanced.js
+
+[33mcommit 9f54b47026b8d063e362138e3fb3e30e145081a0[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Apr 1 21:57:13 2012 +0200
+
+    * Move some sections out of README into wiki pages
+    * <u> elements don't need to be transformed into <span> elements since <u> is still a valid html5 element
+    * Remove wysiwyg-color-xing
+    * Fix fontSize command
+    * Sort classes in advanced.js rule set alphabetically
+
+[33mcommit f18413a651e30f4b4ab04f283b829729662d228c[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Thu Mar 29 02:20:42 2012 +0300
+
+    Fixed typo in README
+
+[33mcommit fe62ddc1bbe430924d6f7ac67c72518eb3166fba[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Mar 29 00:45:56 2012 +0200
+
+    wysihtml5 0.3.0 RC 2
+
+[33mcommit 74ffed2e6e34478bf2021ed0a5cca94867c23074[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Mar 29 00:34:38 2012 +0200
+
+    Remove console.log (oopsy daisy)
+
+[33mcommit f12573902aedf8cae779a92efc13df61c69ea3a2[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Mar 29 00:31:20 2012 +0200
+
+    * Possibility to use multiple editors on one page (fixes #20)
+    * Removed obsolote and senseless 'author' comments
+
+[33mcommit d05f02cfcaa06a8b56376a40b1046f7badd2001d[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Fri Mar 23 16:25:49 2012 +0100
+
+    Don't observe the contextmenu in safari since it doesn't contain undo/redo options (fixes #27)
+
+[33mcommit ed21963fda8ac1e18b66c7de8d238ca975151b5b[m
+Merge: 6a52e03 5979a9e
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Thu Mar 22 16:39:06 2012 -0700
+
+    Merge pull request #21 from jhollingworth/master
+    
+    Swallow possible exception when reading currentStyle in IE
+
+[33mcommit 6a52e03106d0415739514c2eaa8830f1021ca9ed[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Fri Mar 23 00:33:04 2012 +0100
+
+    Tackle a weird chrome issue where the iframe contentDocument gets lost (fixes #15)
+
+[33mcommit 3e830bd1b65b5f83980c68ec56efe328f3e69781[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Wed Mar 21 11:39:05 2012 +0100
+
+    Update main js file to reflect new license (thx for pointing this out @stereobit)
+
+[33mcommit 444bda34c16354ed05c233f58a9f35461334a616[m
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Wed Mar 21 08:36:39 2012 +0100
+
+    Update LICENSE
+
+[33mcommit 5979a9eef315665be1ea35769dbf8ac88105a4fb[m
+Author: James Hollingworth <jamiehollingworth@gmail.com>
+Date:   Tue Mar 20 09:57:28 2012 +0000
+
+    Found a bug where IE will occasionally fail accessing currentStyle (Gives no useful feedback). Swallowing the exception and falling back to other ways of getting style.
+
+[33mcommit 3c03dc6e222b9c5dbe2be9f7426aa523c532683c[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Mar 18 23:52:23 2012 +0100
+
+    Use IE=Edge instead of IE=7 as UA-Compatible value in iframe (fixes #19)
+
+[33mcommit 3e53ed6a6bc1de7571b5d321d207414c6c15c50e[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Mar 15 21:36:16 2012 +0100
+
+    Fix unit tests in IE<8
+
+[33mcommit 4728930ce816ca498f63e1f958bdf22787989c9d[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Mar 15 21:29:26 2012 +0100
+
+    Proper fix for #16 (polish keyboard issue)
+
+[33mcommit bed8d55106c1d18431b78559c59df4c3b944191a[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Mar 14 22:28:26 2012 +0100
+
+    Updated README
+
+[33mcommit 22178783e3fb51256cc0aa22b7f95c74da57677e[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Mar 14 22:05:58 2012 +0100
+
+    Replace deprecated QUnit methods
+
+[33mcommit 02c5c579c78f872851727e0da2a6c03cc2cf26ba[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Mar 14 21:53:50 2012 +0100
+
+    Don't interpolate hidden fields in dialog via interval (fixes #14)
+
+[33mcommit c8bb6b4ec2a3a9f6d587c993420aa0747213f839[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Mar 14 21:29:51 2012 +0100
+
+    Only catch metaKey + Z on Mac (might fixes #16)
+
+[33mcommit 2af0deb19c7111ecac1c43cb35cc4dc763bcc13d[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Mon Feb 6 00:03:03 2012 +0100
+
+    wysihtml5 0.3.0 rc1 (see CHANGELOG.textile)
+
+[33mcommit c10ba3221dc7de4b43b5234786b2c90a9553a7fc[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 23:56:03 2012 +0100
+
+    Further smartify html generation after leaving a h1-h6 or ul/ol
+
+[33mcommit b2b67de504ce1c6915935096115a1b74bb8afba2[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 23:37:09 2012 +0100
+
+    Make sure that webOS devices fall back to the textarea
+
+[33mcommit f3432e09a7f48bb9382686097721b15f2aaaa059[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 23:08:58 2012 +0100
+
+    Possibility to disable rich text view for touch devices
+
+[33mcommit c079d0a027bc50e250610f140ded623d9a894c47[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 22:21:40 2012 +0100
+
+    Added documentation for beforecommand:composer and aftercommand:composer events
+
+[33mcommit 61f301d68f9eb3ee9b87b732a6ea476ea7b3dd20[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 22:18:16 2012 +0100
+
+    Further improved iOS support
+
+[33mcommit da27392bc054dfe84cb8afe72f49aa9a73d07ed8[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 20:46:34 2012 +0100
+
+    Documented undo:composer and redo:composer events
+
+[33mcommit 337a9bd2189390f75f56016b75609710d899b833[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 20:39:51 2012 +0100
+
+    Fix unit tests in IE8 after recent changes
+
+[33mcommit ea4e28a85cfbe831e82b8b1ce39a727350c5b80e[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 20:18:57 2012 +0100
+
+    Undo history
+
+[33mcommit 08c933ddd225cc6065675d58157977b5e9092307[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Feb 5 19:50:17 2012 +0100
+
+    Fix for #2 (Pasting text behavior)
+
+[33mcommit 0bfdf7da39e10786c5035e2ac556a1c4d78b617c[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Jan 11 21:08:18 2012 +0100
+
+    Copy also border-radius styles from <textarea> to <iframe>
+
+[33mcommit 002b5860fde16033313d0f87c4301718b4242ef2[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue Jan 10 15:49:08 2012 +0100
+
+    Fix nested toolbar links
+
+[33mcommit 0f28d376daf0621180ae7f25912bfd2ff4439045[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Dec 18 23:06:55 2011 +0100
+
+    iOS 5 support!
+
+[33mcommit dc02ddf4a95b0f252d51367c4b09ba16f0003500[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Dec 18 19:54:30 2011 +0100
+
+    Upgrade rangy-core lib
+
+[33mcommit b44f7bd775eb1392339b6f1381e92acaacb38d4a[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Dec 18 19:30:53 2011 +0100
+
+    Prevent insertion of <DIV> or <P> after leaving a list (still needs to be tested in IE)
+
+[33mcommit 215de8f2cec88b64d5882404e888808715ab9245[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Sun Dec 18 18:28:00 2011 +0100
+
+    Wrap setActive with try/catch to ensure silent failing when the textarea is invisible on initial state
+
+[33mcommit 1e57d0f73bb453db37cebacc61d069916b039387[m
+Merge: 2d685dd 23e09fb
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Sun Dec 18 09:23:37 2011 -0800
+
+    Merge pull request #8 from milkshakesoftware/upstream
+    
+    Improved dialog events with event arguments
+
+[33mcommit 23e09fbba45423c9e13b788e70cb5f1441039c68[m
+Author: Martin H. Normark <m@martinnormark.com>
+Date:   Fri Dec 2 21:49:22 2011 +0100
+
+    Improved dialog events with event arguments
+    
+    Added command, dialogElement and link to the event argument being
+    passed to the show:dialog, save:dialog and cancel:dialog events.
+
+[33mcommit 2d685ddff4e7d8f5a136c6ddd0bad150b3e978bc[m
+Merge: 68cf4dc d4aceb6
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Tue Nov 22 15:12:24 2011 -0800
+
+    Merge pull request #6 from samcome/master
+    
+    fixed denomination
+
+[33mcommit d4aceb6d410e20b075dbecd6165c63e1924eec4c[m
+Author: Samuel Frémondière <samcome@me.com>
+Date:   Tue Nov 22 15:56:45 2011 +0100
+
+    fixed
+    <a data-wysihtml5-command="insertOrderedList">insertUnorderedList</a>
+    by
+    <a data-wysihtml5-command="insertOrderedList">insertOrderedList</a>
+
+[33mcommit 68cf4dc3be2c86ec7b56c4ff0cbc8cab54d16474[m
+Merge: cc8249c be6c151
+Author: Tobias Otte <account@tobias-otte.de>
+Date:   Tue Nov 22 06:44:59 2011 -0800
+
+    Merge pull request #5 from samcome/master
+    
+    fixed style
+
+[33mcommit be6c15170e684a7bcbddce1bc23b31b460dad200[m
+Author: Samuel Frémondière <samcome@me.com>
+Date:   Tue Nov 22 15:41:44 2011 +0100
+
+    replace
+    box-sizing: boder-box;
+    by
+    box-sizing: border-box;
+    and move after -moz
+
+[33mcommit cc8249c5914bdcd2be8161b10e3e59c696d1e51c[m
+Author: Martin H. Normark <m@martinnormark.com>
+Date:   Wed Nov 9 17:20:43 2011 +0100
+
+    Added new events (dialog)(cherry picked from commit 37f707aed36f8c18405a68627fdb626be086bde8)
+
+[33mcommit 237edbc800eb098f47e70f057a2f1a82f2fdf6f7[m
+Author: Martin H. Normark <m@martinnormark.com>
+Date:   Wed Nov 9 17:18:46 2011 +0100
+
+    Corrected event names for show, save and cancel (dialog).(cherry picked from commit cab2db6e2e7d4860c505a817797f56bc8ff77a6e)
+
+[33mcommit 7778219a136f46e775da1bc9c7999067cd8bd041[m
+Author: Martin H. Normark <m@martinnormark.com>
+Date:   Wed Nov 9 17:17:04 2011 +0100
+
+    Now firing event on the editor, when dialog events show, save and cancel are observed.(cherry picked from commit a76d7797b56586aea350f0e90b10b39c82f6374a)
+
+[33mcommit 75abb800a0462d8ed3e23f6faac6a4ca538e4b55[m
+Merge: 64b77bc 9fa1e18
+Author: Christopher Blum <christopher.blum@spellboy.com>
+Date:   Tue Nov 1 13:41:05 2011 -0700
+
+    Merge pull request #1 from packagethief/master
+    
+    Update calls to stop(), which now takes an increment, not a timeout value
+
+[33mcommit 9fa1e1812e920fb09e8a953615f6e9560062e923[m
+Author: Jeffrey Hardy <packagethief@gmail.com>
+Date:   Fri Sep 23 13:24:33 2011 -0400
+
+    Use asyncTest() instead of using test() and immediately calling stop()
+    
+    http://docs.jquery.com/QUnit/asyncTest
+
+[33mcommit 92c602c8ac30b96e29322050a3f45540cf878b12[m
+Author: Jeffrey Hardy <packagethief@gmail.com>
+Date:   Fri Sep 23 13:08:22 2011 -0400
+
+    Update calls to stop(), which now takes an increment, not a timeout value
+    
+    If we really want a timeout, we can set one globally via QUnit.confg.testTimeount.
+    See https://github.com/jquery/qunit/pull/125 for background.
+
+[33mcommit 64b77bcf4f5d3f8ce28bd1b283d61a1f9ac70f30[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Jul 13 17:40:15 2011 +0200
+
+    Added speech-to-text to demo
+
+[33mcommit 0b76104a3398efa06f2112c807975c761a04ce0b[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Jul 13 16:37:35 2011 +0200
+
+    Fix README formatting (another try)
+
+[33mcommit 741f5ab52e38a922eaf143d0450822201f211aa1[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Jul 13 16:36:23 2011 +0200
+
+    Fix README formatting
+
+[33mcommit 623afa8b624da0dcde8c88471e9b83126c938dbb[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Wed Jul 13 16:34:24 2011 +0200
+
+    wysihtml5 v0.2.0 - now library agnostic
+
+[33mcommit 64b67e37bc6d6488e0ba97bd040e3794fcda8c8e[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Thu Jun 30 17:50:44 2011 +0200
+
+    Fix IE8 <img> parser bug, add gitignore
+
+[33mcommit 6ee1618537757610b801599a40cf81a50cbaf5fb[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue Jun 21 15:41:55 2011 +0200
+
+    Added more information to the simple demo
+
+[33mcommit bc93695bc8a62a3514e0350e134fc0fbeebfe4eb[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue Jun 21 15:29:02 2011 +0200
+
+    Allow <a> and <span> in simple editor
+
+[33mcommit 76a521594eb5396cc35ed40052a9e9ae68669a2e[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue Jun 21 14:41:26 2011 +0200
+
+    Add links to demos to README
+
+[33mcommit 9dbc783b81cad0f7825528a7960e4a09510004bc[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Tue Jun 21 14:08:38 2011 +0200
+
+    Removed textmate sync config file
+
+[33mcommit 212c5e57261fd92ca176260bdff18b578e74af97[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Mon Jun 20 18:44:14 2011 +0200
+
+    This hopefully fixes the wrong html escaping in the README.textile
+
+[33mcommit 5a484fa2ed0b8e2f0737944253f21e1b718bd70c[m
+Author: Christopher Blum <christopher.blum@xing.com>
+Date:   Mon Jun 20 18:33:55 2011 +0200
+
+    First commit :fire:
